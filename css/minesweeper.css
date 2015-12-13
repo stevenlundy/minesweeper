@@ -1,0 +1,57 @@
+		body {
+		    font-family:"Courier New", monospace;
+		}
+		.square {
+		    width: 20px;
+		    height: 20px;
+		    border-top: 1px solid #BDBDBD;
+		    border-left: 1px solid #BDBDBD;
+		    border-bottom: 1px solid #7B7B7B;
+		    border-right: 1px solid #7B7B7B;
+		    background-color: #BDBDBD;
+		    text-align: center;
+		    display: inline-block;
+		    font-weight: bold;
+		    cursor: default;
+		}
+		.open_ {
+		    color: #BDBDBD;
+		}
+		.open1 {
+		    color: #0000FF;
+		}
+		.open2 {
+		    color: #007B00;
+		}
+		.open3 {
+		    color: #FF0000;
+		}
+		.open4 {
+		    color: #00007B;
+		}
+		.open5 {
+		    color: #7B0000;
+		}
+		.open6 {
+		    color: #007B7B;
+		}
+		.open7 {
+		    color: #000;
+		}
+		.open8 {
+		    color: #7B7B7B;
+		}
+		.blank {
+		    background-color: #CFCFCF;
+		    color: #CFCFCF;
+		    cursor: pointer;
+		}
+		.hit {
+		    background-color: #FF0000;
+		}
+		label {
+		    width: 80px;
+		    text-align: right;
+		    display: inline-block;
+		}
+		
